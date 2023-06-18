@@ -28,7 +28,7 @@ const oem_Specs = new mongoose.Schema(
       type: Number,
       required: true,
     },
-    Max_Speed: {
+    max_speed: {
       type: Number,
       required: true,
     },
